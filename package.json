@@ -5,6 +5,10 @@
   "version": "0.0.1",
   "publisher": "claeri",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claeri27/oceanic-plus-plus.git"
+  },
   "engines": {
     "vscode": "^1.48.0"
   },

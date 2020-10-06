@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "oceanic-plus-plus" extension will be documented in this file.
+## 2020-10-06
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+> Initial release ported from [Oceanic Plus](https://github.com/marcoms/oceanic-plus)
 
-## [Unreleased]
-
-- Initial release
+- Added semantic highlighting
+- Changed colors for types + interfaces
+- Changed color of classes to red
+- Changed typeof, in, and delete to fuschia

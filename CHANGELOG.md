@@ -1,5 +1,10 @@
 # Change Log
 
+## 2020-10-07
+
+- Minor documentation changes
+- Re-added launch.json + fixed gitignore
+
 ## 2020-10-06
 
 > Initial release ported from [Oceanic Plus](https://github.com/marcoms/oceanic-plus)

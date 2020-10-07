@@ -1,8 +1,8 @@
 {
   "name": "oceanic-plus-plus",
   "displayName": "Oceanic Plus Plus",
-  "description": "A color and UI theme based on the excellent Oceanic Plus, with some minor changes. Also supports semantic highlighting for a better developer experience.",
-  "version": "1.1.0",
+  "description": "Theme based on the excellent Oceanic Plus, optimized for Typescript",
+  "version": "1.1.1",
   "publisher": "claeri27",
   "license": "MIT",
   "repository": {

@@ -82,7 +82,9 @@
     "textLink.foreground": "#5fb3b3",
     "titleBar.activeBackground": "#0d151a",
     "titleBar.inactiveBackground": "#0d151a",
-    "widget.shadow": "#0005"
+    "widget.shadow": "#0005",
+    "editorInlayHint.background": "#00000000",
+    "editorInlayHint.foreground": "#65737e"
   },
   "tokenColors": [
     {
@@ -292,7 +294,10 @@
       }
     },
     {
-      "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
+      "scope": [
+        "keyword.operator.or.regexp",
+        "keyword.control.anchor.regexp"
+      ],
       "settings": {
         "foreground": "#FAC863"
       }
